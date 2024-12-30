@@ -14,8 +14,8 @@ import "./styles.css";
 const Home = () => {
   const navigate = useNavigate();
   const [hoverContent, setHoverContent] = useState({
-    type: "null",
-    content: "null",
+    type: null,
+    content: null,
   });
 
   const handleMouseEnter = (content, type = "text") => {
