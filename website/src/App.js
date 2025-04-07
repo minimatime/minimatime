@@ -140,7 +140,7 @@ const Home = () => {
 
         <div
           className="project"
-          data-info
+          data-page
           onMouseEnter={() =>
             handleMouseEnter("./images/research-poster.jpeg", "image")
           }
@@ -162,7 +162,7 @@ const Home = () => {
 
         <div
           className="project"
-          data-info
+          data-page
           onMouseEnter={() =>
             handleMouseEnter("./images/stickers.png", "image")
           }
@@ -225,7 +225,7 @@ const Home = () => {
 
         <div
           className="project"
-          data-info
+          data-page
           onMouseEnter={() => handleMouseEnter("./images/Orange.png", "image")}
           onMouseLeave={handleMouseLeave}
         >
@@ -326,7 +326,7 @@ const Home = () => {
 
         <div
           className="project"
-          data-info
+          data-page
           onMouseEnter={() =>
             handleMouseEnter("./images/bubble-wrap.png", "image")
           }
@@ -373,7 +373,7 @@ const Home = () => {
 
         <div
           className="project"
-          data-info
+          data-page
           onMouseEnter={() =>
             handleMouseEnter("./images/stickers.png", "image")
           }
@@ -386,13 +386,20 @@ const Home = () => {
           </div>
         </div>
 
+        
+
         <div
           className="project"
           data-info
           onMouseEnter={() =>
-            handleMouseEnter("./images/stickers.png", "image")
+            handleMouseEnter("Conference Talk", "text")
           }
           onMouseLeave={handleMouseLeave}
+        >
+        <a
+          href="https://www.instagram.com/p/C6KkGDQLhli/?img_index=3"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <div className="description">
             <h3>How to Fix Problems</h3>
@@ -402,16 +409,22 @@ const Home = () => {
               University's Hackfest 2024.
             </p>
           </div>
+          </a>
         </div>
 
         <div
           className="project"
           data-info
           onMouseEnter={() =>
-            handleMouseEnter("./images/stickers.png", "image")
+            handleMouseEnter("Conference Talk", "text")
           }
           onMouseLeave={handleMouseLeave}
         >
+          <a
+          href = "https://johnclements.com/the-looking-glass/featured/youth-leadership-training/"
+          target="_blank"
+          rel = "noopener noreferrer"
+          >
           <div className="description">
             <h3>Youth for Leadership Panel</h3>
             <p id="tags">Talk</p>
@@ -421,15 +434,21 @@ const Home = () => {
               Consulting office in the Philippines
             </p>
           </div>
+          </a>
         </div>
 
         <div
           className="project"
           data-info
           onMouseEnter={() =>
-            handleMouseEnter("./images/stickers.png", "image")
+            handleMouseEnter("Talk", "text")
           }
           onMouseLeave={handleMouseLeave}
+        >
+          <a
+          href="https://youtu.be/mrerRkvHP4o"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <div className="description">
             <h3>Second Year Speaker for Freshmen Convocation</h3>
@@ -440,6 +459,7 @@ const Home = () => {
               sophomore class.
             </p>
           </div>
+          </a>
         </div>
 
         {renderHoverContent()}
