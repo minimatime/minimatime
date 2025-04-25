@@ -83,7 +83,7 @@ const Home = () => {
           <div id="recent">
             <h3>Currently...</h3>
             <ul>
-              <li>finishing up my capstone work</li>
+              <li>preparing to graduate</li>
               <li>getting back into building personal projects</li>
               <li>streaming albums everyday</li>
             </ul>
@@ -128,6 +128,11 @@ const Home = () => {
           }
           onMouseLeave={handleMouseLeave}
         >
+          <a
+            href="https://selgames.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <div className="description">
             <h3>Jennifer Ann's Group</h3>
             <p id="tags">Webdev</p>
@@ -136,7 +141,35 @@ const Home = () => {
               educates teens about dating violence.
             </p>
           </div>
+          </a>
         </div>
+
+        <div
+          className="project"
+          data-info
+          onMouseEnter={() =>
+            handleMouseEnter("MyPocket", "text")
+          }
+          onMouseLeave={handleMouseLeave}
+        >
+          <a
+            href="https://www.figma.com/proto/D6pBsG7UhitlugxRkkkFiw/Untitled?page-id=1%3A3&node-id=92-12941&viewport=-635%2C-134%2C0.24&t=mogx4X3RgANqGBHn-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=92%3A12941&show-proto-sidebar=1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+          <div className="description">
+            <h3>MyPocket</h3>
+            <p id="tags">Speculative Design</p>
+            <p>
+              For 36-hour designathon, FigBuild, where a person can control their 
+              superpower of creating pocket dimensions through the app<br></br>
+              case study under construction.
+            </p>
+          </div>
+          </a>
+          </div>
+
+        
 
         <div
           className="project"
@@ -146,6 +179,11 @@ const Home = () => {
           }
           onMouseLeave={handleMouseLeave}
         >
+          <a
+            href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/SIGDOC24/51/8f8a9656-7854-11ef-ada9-16bb50361d1f/OUT/sigdoc24-51.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <div className="description">
             <h3>Designing collaboration</h3>
             <p id="tags">Design research</p>
@@ -158,13 +196,14 @@ const Home = () => {
               competition winner, 2nd place.
             </p>
           </div>
+          </a>
         </div>
 
         <div
           className="project"
           data-page
           onMouseEnter={() =>
-            handleMouseEnter("./images/stickers.png", "image")
+            handleMouseEnter("./images/pride-alliance.png", "image")
           }
           onMouseLeave={handleMouseLeave}
         >
@@ -228,7 +267,12 @@ const Home = () => {
           data-page
           onMouseEnter={() => handleMouseEnter("./images/Orange.png", "image")}
           onMouseLeave={handleMouseLeave}
-        >
+        > 
+        <a
+            href="https://www.figma.com/proto/bnzRceYeWhxwpwD9NBaYyW/CS4660-Final-Project?page-id=314%3A59&node-id=314-60&viewport=501%2C629%2C0.11&t=SrHhB7RBWjlSEFLC-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=314%3A60"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <div className="description">
             <h3>Orange</h3>
             <p id="tags">UI/UX Design</p>
@@ -237,6 +281,7 @@ const Home = () => {
               students.
             </p>
           </div>
+          </a>
         </div>
 
         <div
@@ -332,6 +377,11 @@ const Home = () => {
           }
           onMouseLeave={handleMouseLeave}
         >
+          <a
+            href="https://www.figma.com/proto/WeizFd110sCoPsFPTxw9Ty/Capstone-Project?page-id=0%3A1&node-id=112-5213&p=f&viewport=407%2C-233%2C0.06&t=xmlOW96X1Zl7cMx9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=147%3A4100&show-proto-sidebar=1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <div className="description">
             <h3>Bubble Wrap</h3>
             <p id="tags">Speculative Design</p>
@@ -340,6 +390,7 @@ const Home = () => {
               speculative design fiction capstone.
             </p>
           </div>
+          </a>
         </div>
 
         <div

@@ -154,11 +154,11 @@ li {
 
 .i .project[data-info],
 .project a {
-    cursor: help;
+    cursor: ne-resize;
 }
 
 .i .project[data-page] {
-    cursor: ne-resize;
+    cursor: help;
 }
 
 .hover-center {
