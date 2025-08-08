@@ -35,6 +35,7 @@ const Home = () => {
           <h1 className="hover-text">{hoverContent.content}</h1>
         ) : (
           <img
+            loading="lazy"
             src={hoverContent.content}
             alt="Project preview"
             className="hover-content"
@@ -46,6 +47,13 @@ const Home = () => {
 
   return (
     <>
+
+    <div className="navbar">
+      <a href="" rel="noopener noreferrer"><p>Work</p></a>
+      <a href="" rel="noopener noreferrer"><p>Playground</p></a>
+      <a href="" rel="noopener noreferrer"><p>About</p></a>
+    </div>
+
       <div className="heading">
         <h1>Natasha Valluri</h1>
       </div>
@@ -96,17 +104,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="header-image-carousel">
-          <img src="./images/nyc-tv.png" alt="Net art piece from NYC" />
-          <img
-            src="./images/me-studying.png"
-            alt="Natasha locked in at the library"
-          />
-          <img
-            src="/images/nyc-flowers.png"
-            alt="Flowers from a market in NYC"
-          />
-        </div>
+        
       </div>
 
       <div className="bounce">
