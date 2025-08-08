@@ -63,6 +63,13 @@ const Home = () => {
             </p>
             <h3>Connect</h3>
             <a
+              href="https://github.com/minimatime/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <p class="underline">Github</p>
+            </a>
+            <a
               href="https://www.instagram.com/minimadethat/"
               target="_blank"
               rel="noopener noreferrer"
