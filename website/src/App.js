@@ -35,7 +35,6 @@ const Home = () => {
           <h1 className="hover-text">{hoverContent.content}</h1>
         ) : (
           <img
-            loading="lazy"
             src={hoverContent.content}
             alt="Project preview"
             className="hover-content"
