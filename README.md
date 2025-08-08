@@ -1,4 +1,4 @@
-### Natasha Valluri - @nevermindnatasha 
+### Natasha Valluri
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-[linkedin]-blue?style=flat&logo=Linkedin&logoColor=white&link=[linkedin-link])](https://www.linkedin.com/in/[linkedin]/)
@@ -8,27 +8,25 @@
 [![Instagram Badge](https://img.shields.io/badge/-@[instagram]-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_[instagram]/)](https://instagram.com/_[instagram])
 [![Gmail Badge](https://img.shields.io/badge/-[email]-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:[email])](mailto:[email]) -->
 
-Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am currently studying Computational Media @georgiatech, and I have a keen interest in community, collaboration and creativity! I'm researching design collaboration, and presenting my work at ACM SIGDOC this October- yippie! I'm a big fan of education, and I am currently TAing for Educational Technology at Tech! I have SWE'd @NCR, and love debugging (!!). Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
+Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am an incoming MS-HCI student at Georgia Tech, where I graduated this May with my Bachelor's in Computational Media, and I have a keen interest in community, collaboration and creativity! I'm currently interning as a UX Research and Design intern at GT Office of Information Technology! I have presented my work on design collaboration at ACM SIGDOC, TA'd for Education Technology, and SWE'd @NCR. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
 
 My alter ego on github is [@natasha-png!](https://www.github.com/natasha-png)
 
 ## Currently working on...
-- documenting and editing all my projects from the last week
-- preparing for RenderATL in June!
-- getting initial sprints up and running for Bits of Good
-- researching the intersections between design, education, culture and collaboration
+- documenting and editing all my projects from this summer
+- getting my schedule ready for fall!
+- building my design portfolio (rip my weekends)
   
 
 ## Currently learning...
 - to mess with data in a creative projected inspired by Dear Data
-- to develop an app for my organization inspired by Wordle
+- to fix my attention span
 - to finally (finally) play the guitar
 
 ## Currently streaming...
-- Haikyuu! season 4
-- Suits on Netflix
-- my June playlist
-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ku74er9acsmv7o3ad13502jq6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+- Avatar The Last Airbender
+- Modern Family on Hulu
+- my July playlist
 <!--
 **natasha-png/natasha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
