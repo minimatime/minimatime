@@ -10,7 +10,7 @@
 
 Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am an incoming MS-HCI student at Georgia Tech, where I graduated this May with my Bachelor's in Computational Media, and I have a keen interest in community, collaboration and creativity! I'm currently interning as a UX Research and Design intern at GT Office of Information Technology! I have presented my work on design collaboration at ACM SIGDOC, TA'd for Education Technology, and SWE'd @NCR. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
 
-My alter ego on github is [@natasha-png!](https://www.github.com/natasha-png)
+My older github is [@natasha-png!](https://www.github.com/natasha-png)
 
 ## Currently working on...
 - documenting and editing all my projects from this summer
