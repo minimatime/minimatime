@@ -41,6 +41,11 @@ ul {
     padding-left: 20px;
 }
 
+.underline {
+    text-decoration: underline;
+}
+
+
 .heading {
     text-align: left;
     font-family: "League Script";

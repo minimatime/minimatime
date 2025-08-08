@@ -48,12 +48,6 @@ const Home = () => {
   return (
     <>
 
-    <div className="navbar">
-      <a href="" rel="noopener noreferrer"><p>Work</p></a>
-      <a href="" rel="noopener noreferrer"><p>Playground</p></a>
-      <a href="" rel="noopener noreferrer"><p>About</p></a>
-    </div>
-
       <div className="heading">
         <h1>Natasha Valluri</h1>
       </div>
@@ -67,38 +61,37 @@ const Home = () => {
               Hyderabad, India, currently based in Atlanta, GA interested in
               creativity, collaboration, and community.
             </p>
-            <p onClick={() => navigate("/about")}>Learn more</p>
             <h3>Connect</h3>
             <a
-              href="https://www.instagram.com/nevermindnatasha/"
+              href="https://www.instagram.com/minimadethat/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <p>Instagram</p>
+              <p class="underline">Instagram</p>
             </a>
             <a
               href="https://www.linkedin.com/in/natashavalluri/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <p>LinkedIn</p>
+              <p class="underline">LinkedIn</p>
             </a>
             <a href="mailto:nvalluri3@gatech.edu">
-              <p>Email</p>
+              <p class="underline">Email</p>
             </a>
           </div>
 
           <div id="recent">
             <h3>Currently...</h3>
             <ul>
-              <li>preparing to graduate</li>
+              <li>getting ready for grad school</li>
               <li>getting back into building personal projects</li>
               <li>streaming albums everyday</li>
             </ul>
             <h3>Previously...</h3>
             <ul>
+              <li>travelling as much as i can during the summer</li>
               <li>presenting research on design collaboration</li>
-              <li>building an analytics dashboard for a georgia non-profit</li>
               <li>peforming for the rock and pop showcase with my band</li>
             </ul>
           </div>
@@ -178,7 +171,7 @@ const Home = () => {
           onMouseLeave={handleMouseLeave}
         >
           <a
-            href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/SIGDOC24/51/8f8a9656-7854-11ef-ada9-16bb50361d1f/OUT/sigdoc24-51.pdf"
+            href="https://dl.acm.org/doi/10.1145/3641237.3691694"
             target="_blank"
             rel="noopener noreferrer"
           >
