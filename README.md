@@ -8,25 +8,22 @@
 [![Instagram Badge](https://img.shields.io/badge/-@[instagram]-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_[instagram]/)](https://instagram.com/_[instagram])
 [![Gmail Badge](https://img.shields.io/badge/-[email]-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:[email])](mailto:[email]) -->
 
-Hi there, welcome! I'm Natasha, a developer+designer based in ATL! I am an incoming MS-HCI student at Georgia Tech, where I graduated this May with my Bachelor's in Computational Media, and I have a keen interest in community, collaboration and creativity! I'm currently interning as a UX Research and Design intern at GT Office of Information Technology! I have presented my work on design collaboration at ACM SIGDOC, TA'd for Education Technology, and SWE'd @NCR. Take a look around, and I'm always down to chat [here](https://www.linkedin.com/in/natashavalluri/)!
+Hi there, welcome! I'm Natasha, an incoming MS-HCI student at Georgia Tech, where I graduated this May with my Bachelor's in Computational Media. I am interested in designing tangible experiences, building intelligent machines, teaching digital/AI literacy and using code as a creative medium. This fall, I'll be working on designing and developing visualizations and lessons for quantum mechanics as a part of the LearnQM lab @ GT and UW. 
 
-My older github is [@natasha-png!](https://www.github.com/natasha-png)
+## Ask me about...
+- constructing the poetic web
+- faciliating computing for social good projects
+- designing digital physics textbooks
 
 ## Currently working on...
-- documenting and editing all my projects from this summer
-- getting my schedule ready for fall!
-- building my design portfolio (rip my weekends)
+- documenting my summer intern projects for my design portfolio
   
-
 ## Currently learning...
-- to mess with data in a creative projected inspired by Dear Data
-- to fix my attention span
 - to finally (finally) play the guitar
 
 ## Currently streaming...
 - Avatar The Last Airbender
-- Modern Family on Hulu
-- my July playlist
+
 <!--
 **natasha-png/natasha-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
